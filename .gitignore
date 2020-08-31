@@ -1,2 +1,7 @@
 node_modules/
 build/
+
+/.openzeppelin
+/.env
+/.idea
+/types
